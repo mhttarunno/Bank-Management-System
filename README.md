@@ -1,9 +1,9 @@
-## Bank Management System
+# Bank Management System
 
 Description:
 A Java-based Bank Management System using OOP concepts, Swing/AWT GUI, and MySQL database for managing customer accounts and transactions.
 
-# Key Features:
+## Key Features:
 
 Developed using core OOP principles: inheritance, polymorphism, abstraction, encapsulation, and interfaces
 
@@ -21,7 +21,7 @@ Modular and maintainable code structure
 
 Input validation and basic error handling
 
-# Tech Stack:
+## Tech Stack:
 
 Java (OOP concepts)
 
