@@ -1,30 +1,61 @@
-# Bank Management System
+Bank Management System
 
-Description:
-A Java-based Bank Management System using OOP concepts, Swing/AWT GUI, and MySQL database for managing customer accounts and transactions.
+A Java-based Bank Management System that uses Object-Oriented Programming (OOP)
+principles to manage customer accounts and transactions efficiently. This desktop
+application features a user-friendly GUI and integrates with a MySQL database for
+secure and persistent data storage.
 
-## Key Features:
+Features
 
-Developed using core OOP principles: inheritance, polymorphism, abstraction, encapsulation, and interfaces
+Core OOP Implementation
+Uses inheritance, polymorphism, abstraction, encapsulation, and interfaces for
+a modular and maintainable codebase.
 
-User-friendly desktop GUI with Java Swing and AWT
+User-Friendly GUI
+Built with Java Swing and AWT for an intuitive desktop experience.
 
-MySQL database integration for secure and persistent data storage
+Database Integration
+MySQL backend for secure storage of customer data and transactions.
 
-Create, update, and manage customer accounts
+Account Management
+Create, update, and manage customer accounts seamlessly.
 
-Deposit, withdraw, and transfer funds between accounts
+Transaction Handling
+Deposit, withdraw, and transfer funds between accounts.
 
-Track transaction history for each account
+Transaction History
+Track and view all account transactions.
 
-Modular and maintainable code structure
+Error Handling
+Includes input validation and basic error management.
 
-Input validation and basic error handling
+Technologies
 
-## Tech Stack:
+Programming Language: Java (OOP Concepts)
 
-Java (OOP concepts)
+GUI Framework: Swing & AWT
 
-Swing & AWT (GUI)
+Database: MySQL
 
-MySQL (Database)
+System Architecture
+
+The system follows a modular architecture:
+
+Data Layer
+Handles database operations using JDBC.
+
+Business Logic Layer
+Implements account and transaction functionalities.
+
+Presentation Layer
+Swing/AWT-based GUI for user interaction.
+
+Usage
+
+Launch the application and log in as a bank administrator.
+
+Create or update customer accounts.
+
+Perform deposits, withdrawals, and transfers.
+
+View transaction history for each account.
